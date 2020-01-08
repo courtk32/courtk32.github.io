@@ -1,5 +1,5 @@
 ## Courtney Klein
 
-![headshot](images/Headshotedit.JPG)
+![headshot](images/Headshotedit.JPG | width=100)
 
 [bio](bio.md)
