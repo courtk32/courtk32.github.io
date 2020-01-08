@@ -1,5 +1,5 @@
 ## Courtney Klein
-[About Me](bio.md)
+[About Me](bio.md) [Research](research.md)
 
 <img src="images/Headshotedit.JPG" width="300">
 
