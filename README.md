@@ -1,7 +1,4 @@
 ## Courtney Klein
-<img src="images/Headshotedit.JPG" width="48">
-next
-
-![headshot](images/Headshotedit.JPG){:height="10%"}
+<img src="images/Headshotedit.JPG" width="100">
 
 [bio](bio.md)
