@@ -5,7 +5,10 @@
 
 <p style="margin-left: 50px" align="left" > I am currently a first year graduate student at the persuing a PhD in physics at the University of California, Irvine. I currently work with Prof. James Bullock on galaxy evelution through simulations. </p>
 
-####  Link
+
+
+
+###  Personal Links
 Github: [courtk32](https://github.com/courtk32)
 
 Publications: [ORCID](https://orcid.org/0000-0002-2762-4046)
