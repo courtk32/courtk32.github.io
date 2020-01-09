@@ -1,4 +1,4 @@
-## Courtney Klein 
+# Courtney Klein 
 ### [Home](README.md)  |  [About Me](bio.md)  |  [Research Interest](research.md)  |  [CV](cv.md)
 
 <img float: left src="images/Headshotedit.JPG" width="300">
