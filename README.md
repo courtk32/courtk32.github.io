@@ -30,3 +30,18 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Courtney's notes
+Notes on how to edit website: 
+
+---Update background image---
+Go to file assets/css/main.css
+Go to wrapper and edit background-image which is line 3237ish
+Change the image in the second url.
+
+
+
+
+
+
+
