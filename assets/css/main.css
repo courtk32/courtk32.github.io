@@ -3718,7 +3718,7 @@ input, select, textarea {
 
 					#nav ul.links li a:hover {
 						color: inherit !important;
-						background-color: rgba(255, 255, 255, 0.2);
+						background-color: rgba(0, 255, 0, 0.2);
 					}
 
 				
@@ -3726,16 +3726,12 @@ input, select, textarea {
 						font-size: 80%;
 						}
 
-/*
-					#nav ul.links li:hover {
-						background: #8A2BE2;}
-
 					#nav ul.links ul {
 						position: absolute;
 						padding: 0;
 						left: 0;
 						display: none;
-						} */
+						} 
 
 
 					#nav ul.links li:hover ul ul {
@@ -3748,6 +3744,7 @@ input, select, textarea {
 						}
 					
 					#nav ul.links li li:hover ul {
+						background: #8A2BE2;
 						display: block;
   						margin-left: 200px;
 						margin-top: -35px;
@@ -3756,7 +3753,7 @@ input, select, textarea {
 
 
 				#nav ul.links li.active {
-					background-color: #ffffff;
+					background-color: #18bfef;
 				}
 
 					#nav ul.links li.active a {
