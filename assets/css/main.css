@@ -3725,7 +3725,7 @@ input, select, textarea {
 				}
 
 				#nav ul.links li.active {
-					background-color: #rgba(255,0,0,1); /* was ffffff  now green*/
+					background-color: #rgba(255,0,0,.5); /* was ffffff  now green*/
 				}
 
 					#nav ul.links li.active a {
