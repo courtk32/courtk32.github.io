@@ -3615,7 +3615,7 @@ input, select, textarea {
 		-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
-		background: rgba(255, 255, 255, 0.25);
+		background: rgba(0, 255, 0, 0.25); /* was 255, 255, 255, 0.25 */
 		height: 4rem;
 		line-height: 4rem;
 		margin: -4rem auto 0 auto;
@@ -3632,7 +3632,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons li a.icon:hover:before {
-			color: #18ef92; /* now lime green */ /* cyan 18bfef */
+			color: #73081a; /* now red */ /* cyan 18bfef */
 		}
 
 		#nav ul.icons.alt li .icon:before {
@@ -3640,7 +3640,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons.alt li a.icon:hover:before {
-			box-shadow: inset 0 0 0 2px #18bfef;
+			box-shadow: inset 0 0 0 2px #2a1236; /*now purple was cyan 18bfef*/
 		}
 
 		#nav input, #nav select, #nav textarea {
@@ -3654,7 +3654,7 @@ input, select, textarea {
 
 			#nav a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				color: #bf550a !important; /* orange #bf550a  18bfef was cyan */
 			}
 
 		#nav strong, #nav b {
@@ -3729,7 +3729,7 @@ input, select, textarea {
 				}
 
 					#nav ul.links li.active a {
-						color: #1e252d; /* medium blue */
+						color: #bf0ab3; /*  now hot pink, was medium blue1e252d */ \
 					}
 
 						#nav ul.links li.active a:hover {
