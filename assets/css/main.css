@@ -3728,9 +3728,9 @@ input, select, textarea {
 
 
 					#nav ul.links li:hover {
-						background: #003f20;}
+						background: #8A2BE2;}
 
-					#nav ul {
+					#nav ul.links ul {
 						position: absolute;
 						padding: 0;
 						left: 0;
@@ -3739,16 +3739,16 @@ input, select, textarea {
 						}
 
 
-					#nav li:hover ul ul {
+					#nav ul.links li:hover ul ul {
 						display: none;
 						}
 
 
-					#nav li:hover ul {
+					#nav ul.links li:hover ul {
 						display: block;
 						}
 					
-					#nav li li:hover ul {
+					#nav ul.links li li:hover ul {
 						display: block;
   						margin-left: 200px;
 						margin-top: -35px;
