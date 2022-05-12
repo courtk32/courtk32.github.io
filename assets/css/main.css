@@ -3720,9 +3720,29 @@ input, select, textarea {
 						color: inherit !important;
 						background-color: rgba(255, 255, 255, 0.1);
 					}
+				/* Courtney add drop down menu option */
+				#nav ul.links li.dropdown {
+					position: relative;
+					display: inline-block;
+					}
+				
+				#nav ul.links li.dropdown-content {
+					display: none;
+					position: absolute;
+					background-color: #f9f9f9;
+					min-width: 160px;
+					box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+					padding: 12px 16px;
+					z-index: 1;
+					}
 
-				#nav ul.links li.drop {
-					background-color: #ffffff;
+				#nav ul.links li.dropdown:hover .dropdown-content {
+					display: block;
+					}
+					
+					
+					
+					
 				}
 
 				#nav ul.links li.active {
