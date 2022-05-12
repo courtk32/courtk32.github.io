@@ -3615,7 +3615,7 @@ input, select, textarea {
 		-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
-		background: rgba(0, 255, 0, 0.25); /* was 255, 255, 255, 0.25 */
+		background: rgba(0, 255, 0, 0.25); /* now green was 255, 255, 255, 0.25 */
 		height: 4rem;
 		line-height: 4rem;
 		margin: -4rem auto 0 auto;
@@ -3632,7 +3632,7 @@ input, select, textarea {
 		}
 
 		#nav ul.icons li a.icon:hover:before {
-			color: #73081a; /* now red */ /* cyan 18bfef */
+			color: #18bfef; /* Color of the active text when hovered over */
 		}
 
 		#nav ul.icons.alt li .icon:before {
