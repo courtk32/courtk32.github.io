@@ -3726,7 +3726,7 @@ input, select, textarea {
 						font-size: 80%;
 						}
 
-
+/*
 					#nav ul.links li:hover {
 						background: #8A2BE2;}
 
@@ -3735,8 +3735,7 @@ input, select, textarea {
 						padding: 0;
 						left: 0;
 						display: none;
-						/* hides sublists */
-						}
+						} */
 
 
 					#nav ul.links li:hover ul ul {
