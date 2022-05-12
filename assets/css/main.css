@@ -3615,7 +3615,7 @@ input, select, textarea {
 		-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 		-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 		transition: transform 1s ease, opacity 1s ease;
-		background: rgba(255, 255, 255, 0.25); /* now green was 255, 255, 255, 0.25 */
+		background: rgba(255, 255, 255, 0.25); /* tab background color */
 		height: 4rem;
 		line-height: 4rem;
 		margin: -4rem auto 0 auto;
@@ -3654,7 +3654,7 @@ input, select, textarea {
 
 			#nav a:hover {
 				border-bottom-color: transparent;
-				color: #bf550a !important; /* orange #bf550a  18bfef was cyan */
+				color: #18bfef !important; 
 			}
 
 		#nav strong, #nav b {
@@ -3718,22 +3718,22 @@ input, select, textarea {
 
 					#nav ul.links li a:hover {
 						color: inherit !important;
-						background-color: rgba(255, 255, 0, 0.3); /* color of tab when hover, yellow */
+						background-color: rgba(255, 255, 255, 0.3); /* color of tab when hover */
 					}
 				
 					
 				}
 
 				#nav ul.links li.active {
-					background-color: #rgba(255,0,0,0.3); /* was ffffff  now green*/
+					background-color: #rgba(255,0,0,1); /* was ffffff  now green*/
 				}
 
 					#nav ul.links li.active a {
-						color: #1e252d; /*  now hot pink, was medium blue1e252d */ \
+						color: #1e252d; /*  color of active tab text */ \
 					}
 
 						#nav ul.links li.active a:hover {
-							color: #18bfef !important; /* now red was cyan 18bfef*/
+							color: #18bfef !important; /* Color of active tab text when hovered*/
 						}
 
 
