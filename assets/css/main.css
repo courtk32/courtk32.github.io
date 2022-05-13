@@ -3721,33 +3721,6 @@ input, select, textarea {
 						background-color: rgba(0, 255, 0, 0.2);
 					}
 
-				
-					
-
-					#nav ul.links ul {
-						position: absolute;
-						padding: 0;
-						left: 0;
-						display: none;
-						} 
-
-
-					#nav ul.links li:hover ul ul {
-						display: none;
-						}
-
-
-					#nav ul.links li:hover ul {
-						display: block;
-						}
-					
-					#nav ul.links li li:hover ul {
-						background: #8A2BE2;
-						display: block;
-  						margin-left: 200px;
-						margin-top: -35px;
-						}
-
 
 
 				#nav ul.links li.active {
