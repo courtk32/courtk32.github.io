@@ -3729,13 +3729,13 @@ input, select, textarea {
 
 				#nav ul.links li.dropitem {
 					position: relative;
-					background-color: rgb(220, 220, 250);
+					background-color:#a60808;
 					top: 0px;
 					left: 0px;
 				}
 
 				#nav ul.links li.dropitem a {
-					color: rgb(9, 14, 90);
+					color: #a60808;
 				}
 
 				#nav ul.links li.drop {
@@ -3751,7 +3751,7 @@ input, select, textarea {
 					font-size: 16px;
 					top: 34px;
 					z-index: 1;
-					box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.4);
+					box-shadow: 0px 10px 25px rgba(166, 153, 8, 0.4);
 				}
 
 				#nav ul.links li.drop:hover li.dropitem {
@@ -3760,20 +3760,20 @@ input, select, textarea {
 
 				#nav ul.links li.dropitem a {
 					padding: 12px 10px;
-  					border-bottom: 1px solid rgb(197, 197, 250);
+  					border-bottom: 1px solid #28a608;
  					display: block;
   					transition: all 0.5s ease !important;
-  					background-color: rgb(230, 230, 230);
+  					background-color: #0886a6;
 				}
 
 
 				#nav ul.links li.dropitem a:hover {
-					background-color: rgb(230, 230, 230);
+					background-color: #4f08a6;
 				}
 
 
 				#nav ul.links li.drop:hover {
-					background-color: rgba(0, 0, 0, 0.3);	
+					background-color: rgba(166, 8, 148, 0.3);	
 					}
 
 
