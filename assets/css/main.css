@@ -3727,11 +3727,16 @@ input, select, textarea {
 						display: inline-block;
 						}
 
-					#nav ul.links li.drop li {
+
+					#nav ul.links li.drop li.dropmenu {
 						display: none;
 						position: absolute;
 						background-color: #6d1dab;
+						}
 
+
+					#nav ul.links li.drop:hover li.dropmenu {
+						display: block;
 						}
 
 
