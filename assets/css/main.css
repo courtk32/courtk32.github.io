@@ -3728,7 +3728,7 @@ input, select, textarea {
 						}
 
 
-					#nav ul.links li.drop li.dropmenu {
+					#nav ul.links li.dropmenu {
 						display: none;
 						position: absolute;
 						background-color: #6d1dab;
