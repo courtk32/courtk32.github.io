@@ -3772,7 +3772,7 @@ input, select, textarea {
 					display: inline-block;
 				}
 
-				#nav ul.links li.dropitem {
+				#nav ul.links ul.drop li.dropitem {
 					display: none;
 					position: absolute;
 					background-color: #1b4cd3;
@@ -3787,7 +3787,7 @@ input, select, textarea {
 					display: block;
 				}
 
-				#nav ul.links li.dropitem a {
+				#nav ul.links ul.drop li.dropitem a {
 					padding: 12px 10px;
   					border-bottom: 1px solid #28a608;
  					display: block;
@@ -3796,12 +3796,12 @@ input, select, textarea {
 				}
 
 
-				#nav ul.links li.dropitem a:hover {
+				#nav ul.links ul.drop li.dropitem a:hover {
 					background-color: #4f08a6;
 				}
 
 
-				#nav ul.links ul.drop:hover {
+				#nav ul.links ul.drop ul.drop:hover {
 					background-color: rgba(166, 8, 148, 0.3);	
 					}
 
