@@ -3764,7 +3764,7 @@ input, select, textarea {
 				}
 
 				#nav ul.links li.dropitem a {
-					color: #black; /* red */
+					color: #blac !important; /* red */
 				}
 
 				#nav ul.links li.drop {
@@ -3774,7 +3774,7 @@ input, select, textarea {
 
 				#nav ul.links li.drop li.dropitem {
 					display: none;
-					position: absolute;
+					position: absolute  !important;
 					background-color: #1b4cd3; /* darkblue */
 					min-width: 100%;
 					font-size: 16px;
