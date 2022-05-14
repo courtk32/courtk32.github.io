@@ -3758,13 +3758,13 @@ input, select, textarea {
 
 				#nav ul.links li.dropitem {
 					position: relative;
-					background-color:#a60808;
+					background-color:#1b4cd3; /* dark blue */
 					top: 0px;
 					left: 0px;
 				}
 
 				#nav ul.links li.dropitem a {
-					color: #a60808;
+					color: #a60808; /* red */
 				}
 
 				#nav ul.links ul.drop {
@@ -3775,12 +3775,12 @@ input, select, textarea {
 				#nav ul.links ul.drop li.dropitem {
 					display: none;
 					position: absolute;
-					background-color: #1b4cd3;
+					background-color: #1b4cd3; /* darkblue */
 					min-width: 120px;
 					font-size: 16px;
 					top: 34px;
 					z-index: 1;
-					box-shadow: 0px 10px 25px rgba(166, 153, 8, 0.4);
+					box-shadow: 0px 10px 25px rgba(166, 153, 8, 0.4); /* tan */
 				}
 
 				#nav ul.links ul.drop:hover li.dropitem {
@@ -3788,21 +3788,21 @@ input, select, textarea {
 				}
 
 				#nav ul.links ul.drop li.dropitem a {
-					padding: 12px 10px;
-  					border-bottom: 1px solid #28a608;
+					padding: 20px 10px;
+  					border-bottom: 1px solid #28a608; 
  					display: block;
   					transition: all 0.5s ease !important;
-  					background-color: #0886a6;
+  					background-color: #0886a6; /* bluegreen */
 				}
 
 
 				#nav ul.links ul.drop li.dropitem a:hover {
-					background-color: #4f08a6;
+					background-color: #4f08a6; /* purple */
 				}
 
 
 				#nav ul.links ul.drop ul.drop:hover {
-					background-color: rgba(166, 8, 148, 0.3);	
+					background-color: rgba(166, 8, 148, 0.3); /* pink */
 					}
 
 
