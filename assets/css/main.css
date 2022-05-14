@@ -3751,7 +3751,7 @@ input, select, textarea {
 						}
 
 */
-				#nav ul.links ul.drop {
+				#nav ul.links li.drop {
 					float: none;
 					width: 100%;
 				}
@@ -3767,12 +3767,12 @@ input, select, textarea {
 					color: #black; /* red */
 				}
 
-				#nav ul.links ul.drop {
+				#nav ul.links li.drop {
 					position: relative;
 					display: inline-block;
 				}
 
-				#nav ul.links ul.drop li.dropitem {
+				#nav ul.links li.drop li.dropitem {
 					display: none;
 					position: absolute;
 					background-color: #1b4cd3; /* darkblue */
@@ -3783,11 +3783,11 @@ input, select, textarea {
 					box-shadow: 0px 10px 25px rgba(166, 153, 8, 0.4); /* tan */
 				}
 
-				#nav ul.links ul.drop:hover li.dropitem {
+				#nav ul.links li.drop:hover li.dropitem {
 					display: block;
 				}
 
-				#nav ul.links ul.drop li.dropitem a {
+				#nav ul.links li.drop li.dropitem a {
 					padding: 20px 10px;
   					border-bottom: 1px solid #28a608; 
  					display: block;
@@ -3796,12 +3796,12 @@ input, select, textarea {
 				}
 
 
-				#nav ul.links ul.drop li.dropitem a:hover {
+				#nav ul.links li.drop li.dropitem a:hover {
 					background-color: #a60808; /* red */
 				}
 
 
-				#nav ul.links ul.drop ul.drop:hover {
+				#nav ul.links li.drop ul.drop:hover {
 					background-color: rgba(166, 8, 148, 0.3); /* pink */
 					}
 
