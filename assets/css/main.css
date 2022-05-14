@@ -3757,14 +3757,14 @@ input, select, textarea {
 				}
 
 				#nav ul.links li.dropitem {
-					position: relative;
-					background-color:#1b4cd3; /* dark blue */
+					position: absolute;
+					background-color: #green; /* dark blue */
 					top: 0px;
 					left: 0px;
 				}
 
 				#nav ul.links li.dropitem a {
-					color: #blac !important; /* red */
+					color: #black !important; /* red */
 				}
 
 				#nav ul.links li.drop {
