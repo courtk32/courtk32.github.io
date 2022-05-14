@@ -3776,9 +3776,9 @@ input, select, textarea {
 					display: none;
 					position: absolute;
 					background-color: #1b4cd3; /* darkblue */
-					min-width: 120px;
+					min-width: 100%;
 					font-size: 16px;
-					top: 4rem;
+					top: 1rem;
 					z-index: 1;
 					box-shadow: 0px 10px 25px rgba(166, 153, 8, 0.4); /* tan */
 				}
