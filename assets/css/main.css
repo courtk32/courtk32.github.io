@@ -3772,7 +3772,7 @@ input, select, textarea {
 					display: inline-block;
 				}
 
-				#nav ul.links li.drop li.dropitem {
+				#nav ul.links li.dropitem {
 					display: none;
 					position: absolute  !important;
 					background-color: #1b4cd3; /* darkblue */
@@ -3799,14 +3799,6 @@ input, select, textarea {
 				#nav ul.links li.drop li.dropitem a:hover {
 					background-color: #a60808  !important; /* red */
 				}
-
-
-				#nav ul.links li.drop ul.drop:hover {
-					background-color: rgba(166, 8, 148, 0.3); /* pink */
-					}
-
-
-
 
 
 
