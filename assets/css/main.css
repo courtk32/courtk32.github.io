@@ -3797,7 +3797,7 @@ input, select, textarea {
 
 
 				#nav ul.links li.drop li.dropitem a:hover {
-					background-color: #a60808; /* red */
+					background-color: #a60808  !important; /* red */
 				}
 
 
