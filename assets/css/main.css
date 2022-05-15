@@ -3533,8 +3533,9 @@ input, select, textarea {
 
 			#header a:hover {
 				border-bottom-color: transparent;
-				color: #18bfef !important;
+				/*color: #18bfef !important; stop it from changing colors when you hover*/
 			}
+
 
 		#header strong, #header b {
 			color: #ffffff;
